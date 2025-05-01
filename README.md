@@ -57,9 +57,6 @@ Wassup, my name is Nathan
 <a href="https://github.com/ndg8743" target="_blank" rel="noreferrer">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndg8743&layout=compact&bg_color=1c1917&text_color=ffffff&title_color=22c55e&hide_border=true" alt="Top Languages" />
 </a>
-<a href="https://wakatime.com/@ndg8743" target="_blank" rel="noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ndg8743&layout=compact&theme=dark" alt="WakaTime Coding Stats" />
-</a>
 <a href="https://github.com/ndg8743" target="_blank" rel="noreferrer">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndg8743&theme=react-dark" alt="Activity Graph" />
 </a>
