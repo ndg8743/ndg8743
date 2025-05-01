@@ -1,4 +1,4 @@
-Hi lol, my names Nathan
+Wassup, my name is Nathan
 ### Skills
 
 <p align="left">
