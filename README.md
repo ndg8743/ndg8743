@@ -1,5 +1,3 @@
-# <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Nathan+👋;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech!&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" />
-
 <div align="center">
 
 [![Visitor Counter](https://komarev.com/ghpvc/?username=ndg8743&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)](https://github.com/ndg8743)
