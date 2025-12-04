@@ -12,6 +12,57 @@
 ### Frontend & Backend
 [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,webpack,vite,express,fastapi,flask,pytorch,tensorflow,raspberrypi&perline=10&theme=dark)](https://skillicons.dev)
 </div>
+
+## ScuffedRedis
+<div align="center">
+
+![ScuffedRedis](./ScuffedRedis.gif)
+</div>
+
+> ScuffedRedis, Redis but if it was bad
+
+>**Tech Stack:** `C++` `Redis` `React3Fiber`
+<br>
+---
+## QView3D
+<div align="center">
+
+![QView3D Demo](./QView3D.png)
+> **Tech Stack:** `Python` `Typescript` `Go`
+
+</div>
+
+> QView3D, 3D Printer Farm Manager
+## Personal Site
+<div align="center">
+
+![Personal Site Demo](./PersonalSite.gif)
+</div>
+
+> [gopee.dev](https://gopee.dev/), just my personal site.
+
+> **Tech Stack:** `React` `TypeScript` `Tailwind`
+<br>
+---
+<br>
+
+## ClusterShip
+<div align="center">
+
+![ClusterShip Demo](./ClusterShip.gif)
+</div>
+
+> ClusterShip, battleship but with Kubernetes
+
+>**Tech Stack:** `Go` `Kubernetes` `Websockets`
+<br>
+---
+
+
+>**Tech Stack:** `Go` `Kubernetes` `Websockets`
+<br>
+---
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ndg8743&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ndg8743&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
@@ -25,10 +76,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndg8743&theme=tokyo-night&hide_border=true&custom_title=Nathan's%20Activity%20Graph&area=true" />
 </div>
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
 ---
 
