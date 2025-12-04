@@ -3,85 +3,96 @@
 [![Visitor Counter](https://komarev.com/ghpvc/?username=ndg8743&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)](https://github.com/ndg8743)
 [![GitHub followers](https://img.shields.io/github/followers/ndg8743?style=for-the-badge&color=22c55e&labelColor=1c1917&label=FOLLOWERS)](https://github.com/ndg8743)
 </div>
+
 <div align="center">
 
 ### Languages & Frameworks
+
 [![My Skills](https://skillicons.dev/icons?i=java,js,python,ts,c,cpp,go,react,vue,nodejs&perline=10&theme=dark)](https://skillicons.dev)
+
 ### Tools & Technologies
+
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,git,vscode,vim,linux,mongodb,mysql,postgres,supabase&perline=10&theme=dark)](https://skillicons.dev)
+
 ### Frontend & Backend
+
 [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,webpack,vite,express,fastapi,flask,pytorch,tensorflow,raspberrypi&perline=10&theme=dark)](https://skillicons.dev)
+
 </div>
 
+---
+
 ## ScuffedRedis
+
 <div align="center">
 
 ![ScuffedRedis](./ScuffedRedis.gif)
+
 </div>
 
->[ScuffedRedis](https://gopee.dev/redis), Redis but if it was bad
+> [ScuffedRedis](https://gopee.dev/redis), Redis but if it was bad  
+> **Tech Stack:** `C++` `Redis` `React Three Fiber`
 
->**Tech Stack:** `C++` `Redis` `React3Fiber`
-<br>
 ---
+
 ## QView3D
+
 <div align="center">
 
 ![QView3D Demo](./QView3D.png)
-> **Tech Stack:** `Python` `Typescript` `Go`
 
 </div>
 
-> QView3D, 3D Printer Farm Manager
+> QView3D, 3D Printer Farm Manager  
+> **Tech Stack:** `Python` `TypeScript` `Go`
+
+---
+
 ## Personal Site
+
 <div align="center">
 
 ![Personal Site Demo](./PersonalSite.gif)
+
 </div>
 
-> [gopee.dev](https://gopee.dev/), just my personal site.
-
+> [gopee.dev](https://gopee.dev/), just my personal site  
 > **Tech Stack:** `React` `TypeScript` `Tailwind`
-<br>
+
 ---
-<br>
 
 ## ClusterShip
+
 <div align="center">
 
 ![ClusterShip Demo](./ClusterShip.gif)
+
 </div>
 
-> ClusterShip, battleship but with Kubernetes
+> ClusterShip, battleship but with Kubernetes  
+> **Tech Stack:** `Go` `Kubernetes` `WebSockets`
 
->**Tech Stack:** `Go` `Kubernetes` `Websockets`
-<br>
----
-
-
->**Tech Stack:** `Go` `Kubernetes` `Websockets`
-<br>
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ndg8743&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ndg8743&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ndg8743&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ndg8743&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </div>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=ndg8743&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakNum=ffffff&currStreakLabel=00b4d8&dates=9ca3af" />
 </div>
-
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndg8743&theme=tokyo-night&hide_border=true&custom_title=Nathan's%20Activity%20Graph&area=true" />
 </div>
 
-
 ---
 
 <div align="center">
-  
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ndg8743)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+
 </div>
