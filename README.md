@@ -19,7 +19,7 @@
 ![ScuffedRedis](./ScuffedRedis.gif)
 </div>
 
-> ScuffedRedis, Redis but if it was bad
+>[ScuffedRedis](https://gopee.dev/redis), Redis but if it was bad
 
 >**Tech Stack:** `C++` `Redis` `React3Fiber`
 <br>
