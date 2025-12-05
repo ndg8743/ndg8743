@@ -22,69 +22,29 @@
 
 ---
 
-## ScuffedRedis
+## Projects
 
 <div align="center">
 
-![ScuffedRedis](./ScuffedRedis.gif)
+| Preview | Project | Description |
+|---------|---------|-------------|
+| <img src="./ScuffedRedis.gif" width="200" /> | [ScuffedRedis](https://gopee.dev/redis) | Redis but if it was bad |
+| <img src="./QView3D.png" width="200" /> | QView3D | 3D Printer Farm Manager |
+| <img src="./PersonalSite.gif" width="200" /> | [Personal Site](https://gopee.dev/) | Just my personal site |
+| <img src="./ClusterShip.gif" width="200" /> | ClusterShip | Battleship but with Kubernetes |
 
 </div>
-
-> [ScuffedRedis](https://gopee.dev/redis), Redis but if it was bad  
-> **Tech Stack:** `C++` `Redis` `React Three Fiber`
-
----
-
-## QView3D
-
-<div align="center">
-
-![QView3D Demo](./QView3D.png)
-
-</div>
-
-> QView3D, 3D Printer Farm Manager  
-> **Tech Stack:** `Python` `TypeScript` `Go`
-
----
-
-## Personal Site
-
-<div align="center">
-
-![Personal Site Demo](./PersonalSite.gif)
-
-</div>
-
-> [gopee.dev](https://gopee.dev/), just my personal site  
-> **Tech Stack:** `React` `TypeScript` `Tailwind`
-
----
-
-## ClusterShip
-
-<div align="center">
-
-![ClusterShip Demo](./ClusterShip.gif)
-
-</div>
-
-> ClusterShip, battleship but with Kubernetes  
-> **Tech Stack:** `Go` `Kubernetes` `WebSockets`
 
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ndg8743&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ndg8743&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ndg8743&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ndg8743&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="120em" src="https://streak-stats.demolab.com/?user=ndg8743&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakNum=ffffff&currStreakLabel=00b4d8&dates=9ca3af" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ndg8743&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakNum=ffffff&currStreakLabel=00b4d8&dates=9ca3af" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndg8743&theme=tokyo-night&hide_border=true&custom_title=Nathan's%20Activity%20Graph&area=true" />
+  <img height="200em" src="https://github-readme-activity-graph.vercel.app/graph?username=ndg8743&theme=tokyo-night&hide_border=true&custom_title=Nathan's%20Activity%20Graph&area=true" />
 </div>
 
 ---
